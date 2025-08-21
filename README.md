@@ -2,7 +2,7 @@ Desenvolvi uma calculadora de partidas rankeadas para o segundo desafio de códi
 
 Nesse desafio eu precisava seguir os seguintes pontos:
 
- # 2️⃣ Calculadora de partidas Rankeadas
+ # Calculadora de partidas Rankeadas
 
 **O Que deve ser utilizado**
 
