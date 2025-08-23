@@ -80,7 +80,7 @@ for (let i = 0; i < inventario.length; i++) {  // Laço de repetição para cont
     quantidade += 1;
 }
 
-console.log("O Herói " + jogador + " está no nível " + nivel + " com o saldo de " + saldoVitorias + " vitórias e está no nível " + ranking + " com a patente de " + patente + ".");
+console.log("O Herói " + jogador + " está no nível " + nivel + " com o saldo de " + saldoVitorias + " vitórias e está no ranking de classificação " + ranking + " com a patente de " + patente + ".");
 
 console.log(jogador +" possui " + quantidade + " itens no inventário: " + inventario.join(", "));
 
